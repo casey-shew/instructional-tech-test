@@ -1,0 +1,74 @@
+{
+ "sections": [
+  {
+   "id": "74e8cf67-a1b6-1a75-a94b-7ef2ea97b3ae",
+   "title": "Codio Sandbox",
+   "files": [],
+   "layout": "",
+   "path": [],
+   "type": "markdown",
+   "content-file": ".guides/content/Codio-Sandbox-74e8.md",
+   "chapter": false,
+   "reset": [],
+   "teacherOnly": false,
+   "learningObjectives": "Executing Python"
+  },
+  {
+   "id": "70f03e00-e6ef-e947-6504-b6d741816f83",
+   "title": "Navigating Folders",
+   "files": [],
+   "path": [],
+   "type": "markdown",
+   "content-file": ".guides/content/Navigating-Folders-70f0.md",
+   "chapter": false,
+   "reset": [],
+   "teacherOnly": false,
+   "learningObjectives": ""
+  },
+  {
+   "id": "0ac74297-1242-ff25-9ffa-cd77c82dd21e",
+   "title": "Running Python",
+   "files": [],
+   "path": [],
+   "type": "markdown",
+   "content-file": ".guides/content/Running-Python-0ac7.md",
+   "chapter": false,
+   "reset": [],
+   "teacherOnly": false,
+   "learningObjectives": ""
+  },
+  {
+   "id": "9109afc3-8904-5b69-47d6-5fb5e5dbba14",
+   "title": "Executing a Script",
+   "files": [],
+   "path": [],
+   "type": "markdown",
+   "content-file": ".guides/content/Executing-a-Script-9109.md",
+   "chapter": false,
+   "reset": [],
+   "teacherOnly": false,
+   "learningObjectives": ""
+  },
+  {
+   "id": "c94e627a-31b9-e591-8fd7-5b3bf778ac83",
+   "title": "Viewing Graphics",
+   "files": [],
+   "path": [],
+   "type": "markdown",
+   "content-file": ".guides/content/Viewing-Graphics-c94e.md",
+   "chapter": false,
+   "reset": [],
+   "teacherOnly": false,
+   "learningObjectives": ""
+  }
+ ],
+ "theme": "light",
+ "scripts": [],
+ "lexikonTopic": "",
+ "suppressPageNumbering": false,
+ "useSubmitButtons": true,
+ "useMarkAsComplete": true,
+ "hideMenu": false,
+ "allowGuideClose": false,
+ "collapsedOnStart": false
+}

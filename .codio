@@ -1,0 +1,15 @@
+{
+    // Configure your Run and Preview buttons here.
+
+    // Run button configuration
+    "commands": {
+        "Python": "python3"
+    },
+
+    // Preview button configuration
+    "preview": {
+        "Python API": "https://docs.python.org/3/c-api/intro.html",
+        "IntroCS API": "https://ecpyfac.ecornell.com/docs/introcs/",
+        "Virtual Desktop": "https://{{domain3000}}/"
+  }
+}

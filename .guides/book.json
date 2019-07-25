@@ -1,0 +1,35 @@
+{
+ "name": "Module Sandbox",
+ "children": [
+  {
+   "title": "Codio Sandbox",
+   "id": "74e8cf67-a1b6-1a75-a94b-7ef2ea97b3ae",
+   "pageId": "74e8cf67-a1b6-1a75-a94b-7ef2ea97b3ae",
+   "type": "page"
+  },
+  {
+   "title": "Navigating Folders",
+   "id": "70f03e00-e6ef-e947-6504-b6d741816f83",
+   "pageId": "70f03e00-e6ef-e947-6504-b6d741816f83",
+   "type": "page"
+  },
+  {
+   "id": "86ee73dc-98cb-7548-98bf-4ad334a718e5",
+   "title": "Running Python",
+   "pageId": "0ac74297-1242-ff25-9ffa-cd77c82dd21e",
+   "type": "page"
+  },
+  {
+   "id": "6ba2492e-1bab-d8ab-0c08-852b132703fc",
+   "title": "Executing a Script",
+   "pageId": "9109afc3-8904-5b69-47d6-5fb5e5dbba14",
+   "type": "page"
+  },
+  {
+   "id": "b9ba2d89-550c-b25b-77fc-2aa774e823e6",
+   "title": "Viewing Graphics",
+   "pageId": "c94e627a-31b9-e591-8fd7-5b3bf778ac83",
+   "type": "page"
+  }
+ ]
+}
