@@ -1,7 +1,7 @@
 # Instructions
 ## Part One: Test a Code Exercise
 1. Click the button below to open the code exercise in a new tab.
-[![Show me the Code at Codio](https://codio-public.s3.amazonaws.com/sharing/open-in-ide.png)](https://codio.com/p/create/?from_github=casey-shew/instructional-tech-test)
+[![Show me the Code at Codio](https://codio-public.s3.amazonaws.com/sharing/open-in-ide.png)](https://codio.com/cshew/initial-sandbox-it-test-unit/guides)
 2. Take the exercise completely as if you are a student
 3. Identify and document the following to the best of your ability:
     * What are potential ways a student could get lost or confused in the UI? How could this be improved (on a theoretical level, you don’t need to know the mechanics of how to improve it)?
@@ -9,7 +9,7 @@
     * Could this activity accidentally get broken by a student accidentally? How?
     * What concerns would you have from a student experience perspective? How could it be improved?
 
-**Points For:**
+**Points For**
 * Categorizing your feedback clearly by levels of severity and type
 * Clarity on where in the UI feedback refers to
 * Organizing your feedback so it’s digestible, so that important things are visually prominent and details can be found if needed
